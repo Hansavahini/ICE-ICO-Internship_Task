@@ -1,0 +1,54 @@
+.container
+{
+    width:1000px;
+    height:500px;
+    border: 50px solid gray;
+    padding-right: 40px;
+    padding-top: 10px;
+transform: translatex(100px);
+    
+
+}
+.image
+{
+    width:450px;
+   height:350px;
+
+    background-image: url('feather.jpg');
+    background-repeat:no-repeat ;
+
+
+}
+.navbar
+{
+width:450px;
+height:350px;
+/* border: 1px solid black; */
+
+}
+.box
+{
+width: 990px;
+height:200px;
+display:flex-inline;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+.box1
+{
+width:990px;
+height: 500px;
+padding-left: 40px;
+transform: translatey(-50px);
+/* padding-right: 40px;  */
+/* border: 2px solid black; */
+    
+    }
+    .nav
+    {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    

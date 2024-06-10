@@ -1,0 +1,21 @@
+button{
+    border: none;
+width: 450px;
+height: 30px;
+background-color: rgba(0,0, 255, 0.5);
+color: white;
+}
+textarea{
+    border: none;
+    width: 450px;
+    height: 100px;
+    background-color: gainsboro;
+}
+input
+{
+    border: none;
+    width: 450px;
+    height: 30px;
+    background-color: rgb(197, 186, 186,0.75);
+    /* background-color: gainsboro; */
+}
